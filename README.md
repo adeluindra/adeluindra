@@ -1,11 +1,11 @@
-# Halo semua! 
+## Hi, I'm Moh Syafiq Ade Luwindra</a>!<br>
 
-Perkenalkan nama saya **Moh Syafiq Ade Luwindra**.<br>
+I am an Informatics Engineering Student at the University of Muhammadiyah Cirebon.<br>
 
-Saya sedang belajar di [Dicoding](https://www.dicoding.com/).<br>
+### My Social Media;
 
-<p align="left">
-<a href="https://github.com/adeluindra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+<a href="https://www.facebook.com/share/15iPFuXtdN/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" /></a>
+<a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+<a href="www.linkedin.com/in/mohsyafiqadeluwindra" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
+<a href="https://www.instagram.com/adeluindra_?igsh=MWVieG12dHAzYnNpaQ==" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" />
+<a href="https://discord.gg/uYP4MGp6" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100" /></a>
